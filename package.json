@@ -1,0 +1,23 @@
+{
+  "name": "marvel-atom-app",
+  "version": "1.0.0",
+  "description": "https://www.sitepoint.com/desktop-node-apps-with-electron/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toanalien/MarvelAtomApp.git"
+  },
+  "author": "toanalien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toanalien/MarvelAtomApp/issues"
+  },
+  "homepage": "https://github.com/toanalien/MarvelAtomApp#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "md5": "^2.2.1"
+  }
+}
