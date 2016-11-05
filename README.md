@@ -2,7 +2,7 @@
 
 ## How to use
 
-- clone source code
+- clone source code `git clone https://github.com/toanalien/MarvelAtomApp.git`
 - install electron `npm install electron -g`
 - change to project folder and run `electron .` 
 
